@@ -1,5 +1,5 @@
 # 💫 About Me:
-a Computer Science undergrad with a passion for backend development, DevOps, and crafting scalable solutions. I thrive on simplifying complexity—whether it’s building APIs, optimizing CI/CD workflows, or diving into cloud platforms like AWS. Currently, I’m working on exciting projects like a social media app and a URL shortener, blending Flask, React, and MongoDB magic. When I’m not coding, you’ll find me geeking out over mechanical keyboards or exploring the latest in autonomous systems and database tech. Let’s collaborate and create something awesome!
+A Computer Science undergrad with a passion for backend development, DevOps, and crafting scalable solutions. I thrive on simplifying complexity whether it’s building APIs, optimizing CI/CD workflows, or diving into cloud platforms like AWS. Currently, I’m working on exciting projects like a social media app blending Flask, React, and MongoDB magic. When I’m not coding, you’ll find me geeking out over exploring the latest in autonomous systems and database tech. Let’s collaborate and create something awesome!
 
 
 ## 🌐 Socials:

@@ -1,9 +1,9 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Garvit%20Pathak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20Infrastructure%20Engineer%20|%20Full-Stack%20Dev&descAlignY=55&descAlign=50" alt="Garvit Pathak Banner" />
-</div>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=0077B5&center=true&vCenter=true&width=1000&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Garvit+Pathak;Cloud+%26+Infrastructure+Engineer;Full-Stack+Developer)
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0077B5&center=true&vCenter=true&width=500&lines=Architecting+Distributed+Systems;Building+Robust+Databases;Mastering+Cloud+%26+DevOps;Automating+CI%2FCD+Pipelines" alt="Typing SVG" />
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B37A&center=true&vCenter=true&width=500&lines=Architecting+Distributed+Systems;Building+Robust+Databases;Mastering+Cloud+%26+DevOps;Automating+CI%2FCD+Pipelines)
+
 </div>
 
 ---

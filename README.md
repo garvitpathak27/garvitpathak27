@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0077B5&amp;height=250&amp;section=header&amp;text=Garvit%20Pathak&amp;fontSize=80&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Cloud%20%26%20Infrastructure%20Engineer%20|%20Full-Stack%20Dev&amp;descAlignY=55&amp;descAlign=50" alt="Garvit Pathak Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=250&section=header&text=Garvit%20Pathak&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20Infrastructure%20Engineer%20|%20Full-Stack%20Dev&descAlignY=55&descAlign=50" alt="Garvit Pathak Banner" />
 </div>
 
 <div align="center">
